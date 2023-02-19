@@ -777,8 +777,10 @@ body{
             font-size: 2rem;
         }
         .about-us{
+            padding-top: 0%;
             padding-bottom: 15rem;
             margin-left: 0; 
+            text-align: center;
                        
         }
         .about-us-heading{
